@@ -77,10 +77,6 @@ AppleHealthLLMBot/
 
 For step-by-step instructions on exporting your data from Apple Health, see the [Apple Support guide](https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios).
 
-Alternatively, follow these steps:
-
-![Export Data](img/export.gif)
-
 ### System Requirements
 
 - Docker (latest version recommended)
